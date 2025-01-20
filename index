@@ -598,8 +598,8 @@
         <li><a href="#pricing">Pricing</a></li>
         <li><a href="#roiSection">ROI</a></li>
         <li><a href="#exit">Exit Strategy</a></li>
-        <li><a href="#devProfile">About Us</a></li>
         <li><a href="#timeline">Timeline</a></li>
+        <li><a href="#nextSteps">Contact Us</a></li>
       </ul>
     </nav>
     <!-- Theme Toggle -->
@@ -908,27 +908,78 @@
   <!-- SECTION 6: CONSTRUCTION TIMELINE -->
   <section id="timeline" class="reveal">
     <h2>Construction Timeline</h2>
-    <div class="section-content">
-      <ul style="line-height:1.7;">
-        <li><strong>Q4 2023</strong>: Agreement Signed</li>
-        <li><strong>Q4 2024</strong>: Drawings Submitted for Approval</li>
-      </ul>
-      <h3>Construction begins <strong>Q3 2025</strong> upon permit approvals. 
-        Target is a <strong>2-year</strong> total timeline:</h3>
-      
-      <ul style="line-height:1.7;">
-        <li><strong>Q3 2025</strong>: Demolition &amp; design finalization, site mobilization</li>
-        <li><strong>Q4 2025</strong>: Basement &amp; foundation works, partial floor slabs</li>
-        <li><strong>Q1 2026</strong>: Concrete slab works (floors 1–4), façade prep</li>
-        <li><strong>Q2 2026</strong>: Floors 5–8, façade cladding &amp; finishing</li>
-        <li><strong>Q3 2026</strong>: Plumbing, lift installation, doors &amp; windows</li>
-        <li><strong>Q4 2026</strong>: Interior works, electrical &amp; MEP</li>
-        <li><strong>Q1 2027</strong>: Final façade finishing, commissioning, handover</li>
-      </ul>
-      <p style="margin-top:1rem;">
-        <em>Early possession</em> for completed floors is possible to start fit-out or rentals.
-      </p>
-    </div>
+<div class="section-content">
+    <table>
+        <thead>
+            <tr>
+                <th>Period</th>
+                <th>Construction Milestone</th>
+                <th>Billing Percentage</th>
+                <th>Payment Due</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Q4 2023</td>
+                <td>Agreement Signed</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Q4 2024</td>
+                <td>Drawings Submitted for Approval</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Q3 2025</td>
+                <td>Demolition & Design Finalization, Site Mobilization</td>
+                <td>20%</td>
+                <td>Start of construction</td>
+            </tr>
+            <tr>
+                <td>Q4 2025</td>
+                <td>Basement & Foundation Works, Partial Floor Slabs</td>
+                <td>15%</td>
+                <td>Upon completion of foundations</td>
+            </tr>
+            <tr>
+                <td>Q1 2026</td>
+                <td>Concrete Slab Works (Floors 1-4), Façade Prep</td>
+                <td>15%</td>
+                <td>Upon completion of 4th floor</td>
+            </tr>
+            <tr>
+                <td>Q2 2026</td>
+                <td>Floors 5-8, Façade Cladding & Finishing</td>
+                <td>15%</td>
+                <td>Upon completion of 8th floor</td>
+            </tr>
+            <tr>
+                <td>Q3 2026</td>
+                <td>Plumbing, Lift Installation, Doors & Windows</td>
+                <td>15%</td>
+                <td>Upon completion of core services</td>
+            </tr>
+            <tr>
+                <td>Q4 2026</td>
+                <td>Interior Works, Electrical & MEP</td>
+                <td>10%</td>
+                <td>Upon MEP completion</td>
+            </tr>
+            <tr>
+                <td>Q1 2027</td>
+                <td>Final Façade Finishing, Commissioning, Handover</td>
+                <td>10%</td>
+                <td>Upon final handover</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p class="notes">
+        <em>Early possession</em> for completed floors is possible to start fit-out or rentals. All payments are subject to work completion verification.
+    </p>
+</div>
   </section>
 
   <!-- SECTION: WHY INVEST? -->

@@ -682,12 +682,29 @@
             <button class="close-btn" onclick="closeLightbox(event)">×</button>
           </div>
 
-      <h3>Site Drawings</h3>
+      <h3>Ground Floor Drawings</h3>
       <div class="image-gallery">
         <img src="https://github.com/Nixan007/mixusedev/blob/main/Gf%20op%201.png" alt="Drawing 1" onclick="openLightbox(this)">
         <img src="https://github.com/Nixan007/mixusedev/blob/main/GF%20op%202.png" alt="Drawing 2" onclick="openLightbox(this)">
+      
+          </div>
+          <div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
+            <img id="lightbox-img" src="" alt="Expanded Image">
+            <button class="close-btn" onclick="closeLightbox(event)">×</button>
+          </div>
+    <h3>Mezzanine Drawings</h3>
+      <div class="image-gallery">
+        
         <img src="https://github.com/Nixan007/mixusedev/blob/main/Mez%20op%201.png" alt="Drawing 3" onclick="openLightbox(this)">
         <img src="https://github.com/Nixan007/mixusedev/blob/main/Mez%20Op%202.png" alt="Drawing 4" onclick="openLightbox(this)">
+        
+          </div>
+          <div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
+            <img id="lightbox-img" src="" alt="Expanded Image">
+            <button class="close-btn" onclick="closeLightbox(event)">×</button>
+          </div>
+<h3>Typical Floor Drawings</h3>
+      <div class="image-gallery">
         <img src="https://github.com/Nixan007/mixusedev/blob/main/3%20to%209%20op%201.png" alt="Drawing 5" onclick="openLightbox(this)">
         <img src="https://github.com/Nixan007/mixusedev/blob/main/3%20to%209%20optn%202.png" alt="Drawing 6" onclick="openLightbox(this)">
           </div>

@@ -60,7 +60,7 @@
     /* COVER PAGE */
     .cover-page {
   min-height: 100vh;
-  background: url(https://i.postimg.cc/XvDvJgsZ/temp-Imagee-D8pz-F.avif) no-repeat bottom center/cover; /* Background image */
+  background: url(https://github.com/Nixan007/mixusedev/blob/cf931e1aad0a9dafd26fabfb8a3b496151dc79f7/Left_Side.JPG) no-repeat bottom center/cover; /* Background image */
   display: flex;
   flex-direction: column;
   justify-content: center;
